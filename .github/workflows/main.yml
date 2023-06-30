@@ -2,7 +2,7 @@ name: Portfolio Deployment
 
 on:
   push:
-    branches:
+    branches: 
       - main 
 
 jobs:
